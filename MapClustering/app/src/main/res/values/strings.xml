@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">MapClustering</string>
-    <string name="title_activity_map">x_prt_Map</string>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD6cYNYvW1jaSpNtxmAWH07fFoA5SxMw1A</string>
-</resources>
